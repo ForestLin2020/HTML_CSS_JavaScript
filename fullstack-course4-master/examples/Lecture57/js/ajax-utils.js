@@ -33,6 +33,16 @@ ajaxUtils.sendGetRequest =
   };
 
 
+// function aaa (){
+//   ...
+// }
+
+// var aaa = function (arg1,arg2){
+//   ...
+// };
+
+
+
 // Only calls user provided 'responseHandler'
 // function if response is ready
 // and not an error
